@@ -1,0 +1,6 @@
+<May 30, 2020 1:33:37,257 PM IST> <Info> <oracle.osb.tools-configjar> <BEA-000000> <The temporary directory (C:\JDeveloper\mywork\OSBProjects\helloworld1\.data\maven\configjar\configfwk\osbinstance1590825817195\OSB11gConfig) has been created for the configuration framework data. This directory will not be automatically deleted.> 
+<May 30, 2020 1:33:37,409 PM IST> <Info> <oracle.osb.offline.kernel-offline.kerneloffline> <OSB-2030850> <Initializing ALSB in offline mode. Install dir: C:\Oracle\Middleware\Oracle_Home\osb config dir: C:\JDeveloper\mywork\OSBProjects\helloworld1\.data\maven\configjar\configfwk\osbinstance1590825817195\OSB11gConfig> 
+<May 30, 2020 1:34:02,092 PM IST> <Info> <oracle.osb.tools-configjar> <BEA-000000> <OSB offline instance has started.> 
+<May 30, 2020 1:34:10,730 PM IST> <Info> <oracle.osb.tools-configjar> <BEA-000000> <OSB Config Jar C:\JDeveloper\mywork\OSBProjects\helloworld1\.data\maven\sbconfig.sbar has been created successfully.> 
+<May 30, 2020 1:34:10,785 PM IST> <Info> <oracle.osb.tools-configjar> <BEA-000000> <Config Jar tool completed.> 
+Picked up JAVA_TOOL_OPTIONS: -Djdk.lang.Process.allowAmbiguousCommands=true
