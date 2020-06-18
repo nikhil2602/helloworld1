@@ -26,9 +26,9 @@
                     <ojdeploy>
                         ${oracleHome}/jdeveloper/jdev/bin/ojdeploy.exe
                     </ojdeploy>
-                    <workspace>
+                   <!-- <workspace>
                         ${basedir}/../OSBProjects.jws
-                    </workspace>
+                    </workspace> -->
                     <project>
                         helloworld1
                     </project>
