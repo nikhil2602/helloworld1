@@ -51,8 +51,12 @@
         </plugins>
     </build>-->
     <properties>
-        <oracleHome>
+       <!-- <oracleHome>
             ${env.ORACLE_HOME}
-        </oracleHome>
+        </oracleHome>-->
+        <oracleHome>C:\Oracle\Middleware\Oracle_Home</oracleHome>
+        <oracleServerUrl>http://localhost:7101/</oracleServerUrl>
+        <oracleUsername>weblogic</oracleUsername>
+        <oraclePassword>welcome1</oraclePassword>
     </properties>
 </project>
